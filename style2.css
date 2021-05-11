@@ -1,0 +1,10 @@
+html, body {
+  margin: 2%;
+  padding: 0;
+  background-color: yellow;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+}
+canvas{
+  border: 2px solid black;
+}
